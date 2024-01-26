@@ -1,44 +1,40 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--config-env=<name>=<envvar>] <command> [<args>]
+# Frontend Mentor - QR Code Challenge
 
-These are common Git commands used in various situations:
+Fiz o desafio do site Frontend Mentor com os conhecimentos que eu obtive nessas últimas semanas, com isso, decidi fazer o desafio básico do [QR code omponent.](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+## Índice
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+- [Visão Geral](#visão-geral)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Meu Processo](#meu-processo)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Conclusão](#conclusão)
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+## Visão Geral
+O desafio se consiste em tentar replicar o mais parecido possível o layout do QR Code apresentado por eles.
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
+### Screenshot
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+![](/src/images/qr-code-screenshot.png)
+
+### Links
+
+- Solução URL: [Solução](https://www.frontendmentor.io/solutions/qr-code-challenge-utilizando-flexbox-d1JtAQN1z_)
+- Site do QR Code URL: [QR Code](https://msumii.github.io/desafio-qr-code-frontend-mentor/)
+
+
+## Meu Processo
+Apenas utilizei uma formatação básica de HTML sem o uso de semântica por ser apenas um Card contendo o QR Code e utilizando também o Flexbox.
+
+### Tecnologias Utilizadas
+
+- HTML
+- CSS
+- Flexbox
+- Git
+
+
+## Conclusão
+Ter descoberto o Frontend Mentor foi uma bela ajuda, pois com ele, irei colocar meus conhecimentos em prática me desafiando a fazer os desafios na qual sinto que tenho conhecimento o suficiente para realiza-lo.
